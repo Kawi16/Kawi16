@@ -8,7 +8,7 @@
   <img width="10px">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
   <img width="10px">
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white">
 </div>
 <div align="center" style="display: flex; flex-direction: row;">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
