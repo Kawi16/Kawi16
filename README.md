@@ -41,7 +41,7 @@
   "name": "Alessandro",
   "age": 17,
   "hobbies": [
-    "coding", "gaming", "music"
+    "coding", "CTF", "gaming", "music"
   ],
   "working_on": {
     "name": "Panilla (Fork)",
